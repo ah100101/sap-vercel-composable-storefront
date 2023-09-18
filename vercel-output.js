@@ -10,26 +10,6 @@ const SSG_PAGES = [
   {
     route: "/electronics-spa/en/USD/product/1934398/HDR-XR105E$",
     staticHTML: "/product/1934398/HDR-XR105E/index.html",
-  },  
-  {
-    route: "/electronics-spa/en/USD/product/1986316/LEGRIA%20HF%20S100",
-    staticHTML: "/product/1986316/LEGRIA%20HF%20S100/index.html",
-  },
-  {
-    route: "/electronics-spa/en/USD/product/1432722/Gigashot%20K80H",
-    staticHTML: "/product/1432722/Gigashot%20K80H/index.html",
-  },
-  {
-    route: "/electronics-spa/en/USD/product/1776948/Camileo%20S10%20EU",
-    staticHTML: "/product/1776948/Camileo%20S10%20EU/index.html",
-  },
-  {
-    route: "/electronics-spa/en/USD/product/1934406/HDR-CX105E%20%20Red",
-    staticHTML: "/product/1934406/HDR-CX105E%20%20Red/index.html",
-  },
-  {
-    route: "/electronics-spa/en/USD/product/1776947/Camileo%20H20%20EU",
-    staticHTML: "/product/1776947/Camileo%20H20%20EU/index.html",
   }
 ]
 
