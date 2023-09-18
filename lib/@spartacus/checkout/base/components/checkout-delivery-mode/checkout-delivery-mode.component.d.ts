@@ -1,0 +1,33 @@
+import { UntypedFormBuilder, UntypedFormGroup } from '@angular/forms';
+import { ActivatedRoute } from '@angular/router';
+import { ActiveCartFacade, CartOutlets } from '@spartacus/cart/base/root';
+import { CheckoutDeliveryModesFacade } from '@spartacus/checkout/base/root';
+import { BehaviorSubject, Observable } from 'rxjs';
+import { CheckoutConfigService } from '../services/checkout-config.service';
+import { CheckoutStepService } from '../services/checkout-step.service';
+import * as i0 from "@angular/core";
+export declare class CheckoutDeliveryModeComponent {
+    protected fb: UntypedFormBuilder;
+    protected checkoutConfigService: CheckoutConfigService;
+    protected activatedRoute: ActivatedRoute;
+    protected checkoutStepService: CheckoutStepService;
+    protected checkoutDeliveryModesFacade: CheckoutDeliveryModesFacade;
+    protected activeCartFacade: ActiveCartFacade;
+    protected busy$: BehaviorSubject<boolean>;
+    readonly CartOutlets: typeof CartOutlets;
+    selectedDeliveryModeCode$: Observable<string | undefined>;
+    supportedDeliveryModes$: Observable<import("@spartacus/cart/base/root").DeliveryMode[]>;
+    backBtnText: string;
+    mode: UntypedFormGroup;
+    isUpdating$: Observable<boolean>;
+    get deliveryModeInvalid(): boolean;
+    constructor(fb: UntypedFormBuilder, checkoutConfigService: CheckoutConfigService, activatedRoute: ActivatedRoute, checkoutStepService: CheckoutStepService, checkoutDeliveryModesFacade: CheckoutDeliveryModesFacade, activeCartFacade: ActiveCartFacade);
+    changeMode(code: string): void;
+    next(): void;
+    back(): void;
+    getAriaChecked(code: string): boolean;
+    protected onSuccess(): void;
+    protected onError(): void;
+    static ɵfac: i0.ɵɵFactoryDeclaration<CheckoutDeliveryModeComponent, never>;
+    static ɵcmp: i0.ɵɵComponentDeclaration<CheckoutDeliveryModeComponent, "cx-delivery-mode", never, {}, {}, never, never, false, never>;
+}

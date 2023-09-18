@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bom xmlns="http://cyclonedx.org/schema/bom/1.3" serialNumber="urn:uuid:ec7972eb-5cee-4a94-9e42-2abf3e4bf889" version="1">
+    <metadata>
+        <timestamp>2023-05-10T14:21:34.460Z</timestamp>
+        <tools>
+            <tool>
+                <vendor>CycloneDX</vendor>
+                <name>Node.js module</name>
+                <version>3.10.6</version>
+            </tool>
+        </tools>
+        <component type="library" bom-ref="pkg:npm/%40spartacus/schematics@6.0.1">
+            <group>@spartacus</group>
+            <name>schematics</name>
+            <version>6.0.1</version>
+            <description>
+                <![CDATA[Spartacus schematics]]>
+            </description>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                </license>
+            </licenses>
+            <purl>pkg:npm/%40spartacus/schematics@6.0.1</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://github.com/SAP/spartacus</url>
+                </reference>
+                <reference type="vcs">
+                    <url>https://github.com/SAP/spartacus/tree/develop/projects/schematics</url>
+                </reference>
+            </externalReferences>
+        </component>
+    </metadata>
+    <components/>
+    <dependencies>
+        <dependency ref="pkg:npm/%40spartacus/schematics@6.0.1"/>
+    </dependencies>
+</bom>

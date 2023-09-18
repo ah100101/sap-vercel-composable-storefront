@@ -1,0 +1,10 @@
+import { SchematicConfig } from '../utils/lib-utils';
+export declare const CUSTOMER_TICKETING_FOLDER_NAME = "customer-ticketing";
+export declare const CUSTOMER_TICKETING_MODULE_NAME = "CustomerTicketing";
+export declare const CUSTOMER_TICKETING_SCSS_FILE_NAME = "customer-ticketing.scss";
+export declare const CUSTOMER_TICKETING_MODULE = "CustomerTicketingModule";
+export declare const CUSTOMER_TICKETING_ROOT_MODULE = "CustomerTicketingRootModule";
+export declare const CUSTOMER_TICKETING_FEATURE_NAME_CONSTANT = "CUSTOMER_TICKETING_FEATURE";
+export declare const CUSTOMER_TICKETING_TRANSLATIONS = "customerTicketingTranslations";
+export declare const CUSTOMER_TICKETING_TRANSLATION_CHUNKS_CONFIG = "customerTicketingTranslationChunksConfig";
+export declare const CUSTOMER_TICKETING_SCHEMATICS_CONFIG: SchematicConfig;

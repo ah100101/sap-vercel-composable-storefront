@@ -1,0 +1,1 @@
+{"version":3,"file":"occ-endpoint.model.migration.js","sourceRoot":"","sources":["occ-endpoint.model.migration.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAEH,0DAIsC;AACtC,oEAAmE;AAGnE,0DAA0D;AAC7C,QAAA,6BAA6B,GAAgC;IACxE;QACE,OAAK,EAAE,wBAAY;QACnB,UAAU,EAAE,+BAAc;QAC1B,cAAc,EAAE,iCAAqB;QACrC,OAAO,EAAE,aAAM,0BAAc,wBAAc,wBAAY,cAAI,iCAAqB,4DAAyD;KAC1I;CACF,CAAC"}

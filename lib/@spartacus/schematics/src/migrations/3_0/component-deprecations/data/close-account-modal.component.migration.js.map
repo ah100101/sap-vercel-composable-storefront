@@ -1,0 +1,1 @@
+{"version":3,"file":"close-account-modal.component.migration.js","sourceRoot":"","sources":["close-account-modal.component.migration.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAEH,0DAA6E;AAGhE,QAAA,uCAAuC,GAAkB;IACpE,gIAAgI;IAChI,QAAQ,EAAE,wBAAwB;IAClC,kBAAkB,EAAE,yCAA6B;IACjD,iBAAiB,EAAE;QACjB;YACE,IAAI,EAAE,YAAY;YAClB,OAAO,EAAE,sEAAsE;SAChF;KACF;CACF,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"item-counter.component.migration.js","sourceRoot":"","sources":["item-counter.component.migration.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAEH,0DAIsC;AACtC,oEAA4E;AAG5E,kFAAkF;AACrE,QAAA,gCAAgC,GAAgC;IAC3E;QACE,OAAK,EAAE,kCAAsB;QAC7B,UAAU,EAAE,wCAAuB;QACnC,cAAc,EAAE,uBAAW;QAC3B,OAAO,EAAE,aAAM,0BAAc,sBAAY,uBAAW,iCAAuB,kCAAsB,iGAA8F;KAChM;CACF,CAAC"}

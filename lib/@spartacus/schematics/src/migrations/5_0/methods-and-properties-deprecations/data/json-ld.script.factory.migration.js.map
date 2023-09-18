@@ -1,0 +1,1 @@
+{"version":3,"file":"json-ld.script.factory.migration.js","sourceRoot":"","sources":["json-ld.script.factory.migration.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAEH,0DAIsC;AACtC,oEAA4E;AAG5E,qFAAqF;AACxE,QAAA,gCAAgC,GAAgC;IAC3E;QACE,OAAK,EAAE,kCAAsB;QAC7B,UAAU,EAAE,wCAAuB;QACnC,cAAc,EAAE,2BAAe;QAC/B,OAAO,EAAE,aAAM,0BAAc,sBAAY,kCAAsB,cAAI,2BAAe,6CAA0C;KAC7H;CACF,CAAC"}

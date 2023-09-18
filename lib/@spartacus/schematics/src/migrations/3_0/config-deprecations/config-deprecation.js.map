@@ -1,0 +1,1 @@
+{"version":3,"file":"config-deprecation.js","sourceRoot":"","sources":["config-deprecation.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAIH,6FAAkG;AAClG,sEAAqE;AAExD,QAAA,uBAAuB,GAAwB;IAC1D,6CAAqB;CACtB,CAAC;AAEF,SAAgB,OAAO;IACrB,OAAO,UAAC,IAAU,EAAE,OAAyB;QAC3C,OAAO,IAAA,6CAAwB,EAAC,IAAI,EAAE,OAAO,EAAE,+BAAuB,CAAC,CAAC;IAC1E,CAAC,CAAC;AACJ,CAAC;AAJD,0BAIC"}

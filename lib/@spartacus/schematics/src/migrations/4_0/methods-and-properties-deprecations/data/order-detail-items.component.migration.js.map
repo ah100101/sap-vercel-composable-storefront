@@ -1,0 +1,1 @@
+{"version":3,"file":"order-detail-items.component.migration.js","sourceRoot":"","sources":["order-detail-items.component.migration.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAEH,0DAIsC;AACtC,oEAA4E;AAG/D,QAAA,sCAAsC,GACjD;IACE;QACE,OAAK,EAAE,wCAA4B;QACnC,UAAU,EAAE,wCAAuB;QACnC,cAAc,EAAE,6BAAiB;QACjC,OAAO,EAAE,aAAM,0BAAc,wBAAc,wCAA4B,cAAI,6BAAiB,4EAAyE;KACtK;CACF,CAAC"}

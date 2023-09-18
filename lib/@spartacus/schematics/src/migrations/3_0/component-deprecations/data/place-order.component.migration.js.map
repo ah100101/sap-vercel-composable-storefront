@@ -1,0 +1,1 @@
+{"version":3,"file":"place-order.component.migration.js","sourceRoot":"","sources":["place-order.component.migration.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAEH,0DAAqE;AAGxD,QAAA,+BAA+B,GAAkB;IAC5D,iGAAiG;IACjG,QAAQ,EAAE,gBAAgB;IAC1B,kBAAkB,EAAE,iCAAqB;IACzC,iBAAiB,EAAE;QACjB;YACE,IAAI,EAAE,wBAAwB;YAC9B,OAAO,EAAE,4DAA4D;SACtE;KACF;CACF,CAAC"}

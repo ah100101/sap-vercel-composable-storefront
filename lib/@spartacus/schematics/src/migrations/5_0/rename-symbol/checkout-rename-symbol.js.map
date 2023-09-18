@@ -1,0 +1,1 @@
+{"version":3,"file":"checkout-rename-symbol.js","sourceRoot":"","sources":["checkout-rename-symbol.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAEH,iEAGwC;AAG3B,QAAA,6BAA6B,GAAoB;IAC5D,oEAAoE;IACpE;QACE,kBAAkB,EAAE,gCAAe;QACnC,YAAY,EAAE,0BAA0B;QACxC,aAAa,EAAE,4CAA2B;KAC3C;IACD,+DAA+D;IAC/D;QACE,kBAAkB,EAAE,gCAAe;QACnC,YAAY,EAAE,qBAAqB;QACnC,aAAa,EAAE,4CAA2B;KAC3C;CACF,CAAC"}

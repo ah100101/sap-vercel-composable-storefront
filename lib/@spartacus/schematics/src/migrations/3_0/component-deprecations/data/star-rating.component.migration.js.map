@@ -1,0 +1,1 @@
+{"version":3,"file":"star-rating.component.migration.js","sourceRoot":"","sources":["star-rating.component.migration.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAEH,0DAIsC;AAGtC,gFAAgF;AACnE,QAAA,+BAA+B,GAAkB;IAC5D,QAAQ,EAAE,gBAAgB;IAC1B,kBAAkB,EAAE,iCAAqB;IACzC,iBAAiB,EAAE;QACjB;YACE,IAAI,EAAE,6BAAiB;YACvB,OAAO,EAAE,WAAI,6BAAiB,wCAA8B,oBAAQ,oCAAiC;SACtG;KACF;CACF,CAAC"}

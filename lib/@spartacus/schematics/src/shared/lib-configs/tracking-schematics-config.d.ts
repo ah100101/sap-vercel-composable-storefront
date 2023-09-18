@@ -1,0 +1,14 @@
+import { SchematicConfig } from '../utils/lib-utils';
+export declare const TRACKING_FOLDER_NAME = "tracking";
+export declare const PERSONALIZATION_MODULE = "PersonalizationModule";
+export declare const PERSONALIZATION_ROOT_MODULE = "PersonalizationRootModule";
+export declare const PERSONALIZATION_MODULE_NAME = "Personalization";
+export declare const PERSONALIZATION_FEATURE_NAME_CONSTANT = "PERSONALIZATION_FEATURE";
+export declare const TRACKING_PERSONALIZATION_SCHEMATICS_CONFIG: SchematicConfig;
+export declare const TMS_MODULE_NAME = "TagManagement";
+export declare const TMS_CONFIG = "TmsConfig";
+export declare const TMS_BASE_MODULE = "BaseTmsModule";
+export declare const TMS_GTM_MODULE = "GtmModule";
+export declare const TRACKING_GTM_SCHEMATICS_CONFIG: SchematicConfig;
+export declare const TMS_AEP_MODULE = "AepModule";
+export declare const TRACKING_AEP_SCHEMATICS_CONFIG: SchematicConfig;

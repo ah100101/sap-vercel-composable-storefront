@@ -1,0 +1,10 @@
+import { SchematicConfig } from '../utils/lib-utils';
+export declare const PICKUP_IN_STORE_FOLDER_NAME = "pickup-in-store";
+export declare const PICKUP_IN_STORE_MODULE_NAME = "PickupInStore";
+export declare const PICKUP_IN_STORE_FEATURE_NAME_CONSTANT = "PICKUP_IN_STORE_FEATURE";
+export declare const PICKUP_IN_STORE_MODULE = "PickupInStoreModule";
+export declare const PICKUP_IN_STORE_ROOT_MODULE = "PickupInStoreRootModule";
+export declare const PICKUP_IN_STORE_TRANSLATIONS = "pickupInStoreTranslations";
+export declare const PICKUP_IN_STORE_TRANSLATION_CHUNKS_CONFIG = "pickupInStoreTranslationChunksConfig";
+export declare const PICKUP_IN_STORE_SCSS_FILE_NAME = "pickup-in-store.scss";
+export declare const PICKUP_IN_STORE_SCHEMATICS_CONFIG: SchematicConfig;

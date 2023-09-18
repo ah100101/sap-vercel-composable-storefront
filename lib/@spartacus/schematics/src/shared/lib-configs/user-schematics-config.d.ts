@@ -1,0 +1,16 @@
+import { SchematicConfig } from '../utils/lib-utils';
+export declare const USER_FOLDER_NAME = "user";
+export declare const USER_SCSS_FILE_NAME = "user.scss";
+export declare const USER_FEATURE_MODULE_NAME = "User";
+export declare const USER_ACCOUNT_FEATURE_NAME_CONSTANT = "USER_ACCOUNT_FEATURE";
+export declare const USER_ACCOUNT_MODULE = "UserAccountModule";
+export declare const USER_ACCOUNT_ROOT_MODULE = "UserAccountRootModule";
+export declare const USER_ACCOUNT_TRANSLATIONS = "userAccountTranslations";
+export declare const USER_ACCOUNT_TRANSLATION_CHUNKS_CONFIG = "userAccountTranslationChunksConfig";
+export declare const USER_ACCOUNT_SCHEMATICS_CONFIG: SchematicConfig;
+export declare const USER_PROFILE_FEATURE_NAME_CONSTANT = "USER_PROFILE_FEATURE";
+export declare const USER_PROFILE_MODULE = "UserProfileModule";
+export declare const USER_PROFILE_ROOT_MODULE = "UserProfileRootModule";
+export declare const USER_PROFILE_TRANSLATIONS = "userProfileTranslations";
+export declare const USER_PROFILE_TRANSLATION_CHUNKS_CONFIG = "userProfileTranslationChunksConfig";
+export declare const USER_PROFILE_SCHEMATICS_CONFIG: SchematicConfig;

@@ -1,0 +1,1 @@
+{"version":3,"file":"popover-component.migration.js","sourceRoot":"","sources":["popover-component.migration.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAEH,0DAIsC;AACtC,oEAA4E;AAG5E,wEAAwE;AAE3D,QAAA,2BAA2B,GAAgC;IACtE;QACE,OAAK,EAAE,6BAAiB;QACxB,UAAU,EAAE,wCAAuB;QACnC,cAAc,EAAE,0BAAc;QAC9B,OAAO,EAAE,aAAM,0BAAc,wBAAc,6BAAiB,cAAI,0BAAc,mBAAgB;KAC/F;CACF,CAAC"}

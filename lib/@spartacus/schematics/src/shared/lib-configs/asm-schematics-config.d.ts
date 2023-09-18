@@ -1,0 +1,10 @@
+import { SchematicConfig } from '../utils/lib-utils';
+export declare const ASM_FOLDER_NAME = "asm";
+export declare const ASM_FEATURE_MODULE_NAME = "Asm";
+export declare const ASM_FEATURE_NAME_CONSTANT = "ASM_FEATURE";
+export declare const ASM_MODULE = "AsmModule";
+export declare const ASM_ROOT_MODULE = "AsmRootModule";
+export declare const ASM_TRANSLATIONS = "asmTranslations";
+export declare const ASM_TRANSLATION_CHUNKS_CONFIG = "asmTranslationChunksConfig";
+export declare const ASM_SCSS_FILE_NAME = "asm.scss";
+export declare const ASM_SCHEMATICS_CONFIG: SchematicConfig;

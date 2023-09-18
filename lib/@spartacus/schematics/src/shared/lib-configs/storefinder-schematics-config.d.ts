@@ -1,0 +1,10 @@
+import { SchematicConfig } from '../utils/lib-utils';
+export declare const STOREFINDER_FOLDER_NAME = "storefinder";
+export declare const STOREFINDER_MODULE_NAME = "StoreFinder";
+export declare const STOREFINDER_SCSS_FILE_NAME = "storefinder.scss";
+export declare const STOREFINDER_MODULE = "StoreFinderModule";
+export declare const STOREFINDER_ROOT_MODULE = "StoreFinderRootModule";
+export declare const STOREFINDER_FEATURE_NAME_CONSTANT = "STORE_FINDER_FEATURE";
+export declare const STOREFINDER_TRANSLATIONS = "storeFinderTranslations";
+export declare const STOREFINDER_TRANSLATION_CHUNKS_CONFIG = "storeFinderTranslationChunksConfig";
+export declare const STOREFINDER_SCHEMATICS_CONFIG: SchematicConfig;

@@ -1,0 +1,1 @@
+{"version":3,"file":"occ-cms-component.adapter.migration.js","sourceRoot":"","sources":["occ-cms-component.adapter.migration.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAEH,0DAIsC;AACtC,oEAAmE;AAGnE,kEAAkE;AACrD,QAAA,mCAAmC,GAC9C;IACE;QACE,OAAK,EAAE,qCAAyB;QAChC,UAAU,EAAE,+BAAc;QAC1B,cAAc,EAAE,2BAA2B;QAC3C,OAAO,EAAE,aAAM,0BAAc,sBAAY,yCAA6B,iCAAuB,qCAAyB,mMAAgM;KACvT;CACF,CAAC"}

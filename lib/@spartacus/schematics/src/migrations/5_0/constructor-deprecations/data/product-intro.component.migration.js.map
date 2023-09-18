@@ -1,0 +1,1 @@
+{"version":3,"file":"product-intro.component.migration.js","sourceRoot":"","sources":["product-intro.component.migration.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAEH,0DAGsC;AACtC,oEAG2C;AAG9B,QAAA,iCAAiC,GAA2B;IACvE,yFAAyF;IACzF,OAAK,EAAE,mCAAuB;IAC9B,UAAU,EAAE,wCAAuB;IACnC,gBAAgB,EAAE,EAAE;IACpB,SAAS,EAAE,CAAC,EAAE,SAAS,EAAE,yBAAa,EAAE,UAAU,EAAE,+BAAc,EAAE,CAAC;CACtE,CAAC"}

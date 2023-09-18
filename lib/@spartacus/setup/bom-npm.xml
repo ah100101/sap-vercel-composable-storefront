@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bom xmlns="http://cyclonedx.org/schema/bom/1.3" serialNumber="urn:uuid:a6af48c1-b17c-4adb-9ea9-1c229cfa6edf" version="1">
+    <metadata>
+        <timestamp>2023-05-10T14:15:22.418Z</timestamp>
+        <tools>
+            <tool>
+                <vendor>CycloneDX</vendor>
+                <name>Node.js module</name>
+                <version>3.10.6</version>
+            </tool>
+        </tools>
+        <component type="library" bom-ref="pkg:npm/%40spartacus/setup@6.0.1">
+            <group>@spartacus</group>
+            <name>setup</name>
+            <version>6.0.1</version>
+            <description>
+                <![CDATA[Includes features that makes Spartacus and it's setup easier and streamlined.]]>
+            </description>
+            <licenses>
+                <license>
+                    <id>Apache-2.0</id>
+                </license>
+            </licenses>
+            <purl>pkg:npm/%40spartacus/setup@6.0.1</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://github.com/SAP/spartacus</url>
+                </reference>
+                <reference type="vcs">
+                    <url>https://github.com/SAP/spartacus/tree/develop/core-libs/setup</url>
+                </reference>
+            </externalReferences>
+        </component>
+    </metadata>
+    <components/>
+    <dependencies>
+        <dependency ref="pkg:npm/%40spartacus/setup@6.0.1"/>
+    </dependencies>
+</bom>

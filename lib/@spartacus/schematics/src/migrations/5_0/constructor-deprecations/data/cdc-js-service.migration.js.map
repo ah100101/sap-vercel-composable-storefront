@@ -1,0 +1,1 @@
+{"version":3,"file":"cdc-js-service.migration.js","sourceRoot":"","sources":["cdc-js-service.migration.ts"],"names":[],"mappings":";AAAA;;;;GAIG;;;AAEH,0DAGsC;AACtC,oEAG2C;AAG9B,QAAA,oCAAoC,GAA2B;IAC1E,sDAAsD;IACtD,OAAK,EAAE,0BAAc;IACrB,UAAU,EAAE,8BAAa;IACzB,SAAS,EAAE;QACT,EAAE,SAAS,EAAE,kCAAsB,EAAE,UAAU,EAAE,+BAAc,EAAE;KAClE;IACD,gBAAgB,EAAE,EAAE;CACrB,CAAC"}
