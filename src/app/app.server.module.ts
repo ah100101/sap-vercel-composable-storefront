@@ -11,8 +11,7 @@ import { provideServer } from '@spartacus/setup/ssr';
   providers: [
     ...provideServer({
       serverRequestOrigin:
-        // 'https://api.c65i60w-esaustral1-s2-public.model-t.cc.commerce.ondemand.com',
-        'https://api.c3geq3sr3n-uniformsy1-d1-public.model-t.cc.commerce.ondemand.com',
+        'https://api.cg79x9wuu9-eccommerc1-p4-public.model-t.myhybris.cloud',
     }),
   ],
 })
